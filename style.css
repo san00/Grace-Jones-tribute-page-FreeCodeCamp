@@ -1,0 +1,73 @@
+body {
+  font-size: 100%;
+}
+
+.title {
+  margin-top: 5em;
+  margin-left: 5em;
+}
+
+#titlebox {
+  background-color: black;
+  text-align: center;
+  width: 40em;
+  height: 5em;
+  padding top: 3em;
+  padding-left: 0em;
+  margin-top: 3em;
+  margin-left: 3em;
+  border-radius: 0.5em;
+}
+
+#titletext {
+  font-size: 3em;
+  padding 2em;
+  color: cyan;
+}
+
+.backgrnd {
+  background-color: #e8e8e8;
+  margin-top: 10em;
+}
+
+#bigtext {
+  color: black;
+  font-size: 15em;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+.images {
+  margin-left: 2em;
+}
+
+img {
+  width: 100%;
+  border-radius: 0.5em;
+  margin-top: 3em;
+}
+
+p {
+  margin-left: 3em;
+  margin-right: 2em;
+  font-size: 3em;
+}
+
+#abouttext {
+  padding-top: 2em;
+  font-size: 3em;
+}
+
+.imagegroup {
+  width: 50%;
+}
+
+#moreinfo {
+  margin-top: 10em;
+  text-align: center;
+  margin-bottom: 3em;
+}
+
+#madeby {
+  font-size: 1.5em;
+}
